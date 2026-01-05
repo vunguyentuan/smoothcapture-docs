@@ -30,6 +30,15 @@
         "tab": "Guides",
         "groups": [
           {
+            "group": "Recording",
+            "pages": [
+              "guides/getting-started/recording",
+              "guides/getting-started/recording-copied-1",
+              "guides/getting-started/recording-copied-2",
+              "guides/getting-started/recording-copied-3"
+            ]
+          },
+          {
             "group": "Getting started",
             "pages": [
               "index",
