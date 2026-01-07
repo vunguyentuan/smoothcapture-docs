@@ -29,12 +29,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Look & Feel",
+            "group": "Getting started",
             "pages": [
-              "docs/look-and-feel/background",
-              "docs/look-and-feel/mouse",
-              "docs/look-and-feel/camera",
-              "docs/look-and-feel/caption"
+              "index",
+              "docs/system-requirements",
+              "docs/setup-permissions"
             ]
           },
           {
@@ -47,11 +46,12 @@
             ]
           },
           {
-            "group": "Getting started",
+            "group": "Look & Feel",
             "pages": [
-              "index",
-              "docs/system-requirements",
-              "docs/setup-permissions"
+              "docs/look-and-feel/background",
+              "docs/look-and-feel/mouse",
+              "docs/look-and-feel/camera",
+              "docs/look-and-feel/caption"
             ]
           }
         ]
