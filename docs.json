@@ -20,7 +20,6 @@
         {
           "anchor": "Blog",
           "icon": "newspaper",
-          "hidden": true,
           "href": "https://mintlify.com/blog"
         }
       ]
@@ -29,6 +28,15 @@
       {
         "tab": "Guides",
         "groups": [
+          {
+            "group": "Look & Feel",
+            "pages": [
+              "guides/look-and-feel/background",
+              "guides/look-and-feel/mouse",
+              "guides/look-and-feel/camera",
+              "guides/look-and-feel/caption"
+            ]
+          },
           {
             "group": "Recording",
             "pages": [
@@ -42,8 +50,9 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "index-copied-2",
+              "index-copied-1",
+              "quickstart"
             ]
           },
           {
@@ -71,27 +80,6 @@
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "hidden": true,
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
             ]
           }
         ]
