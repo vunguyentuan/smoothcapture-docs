@@ -31,55 +31,27 @@
           {
             "group": "Look & Feel",
             "pages": [
-              "guides/look-and-feel/background",
-              "guides/look-and-feel/mouse",
-              "guides/look-and-feel/camera",
-              "guides/look-and-feel/caption"
+              "docs/look-and-feel/background",
+              "docs/look-and-feel/mouse",
+              "docs/look-and-feel/camera",
+              "docs/look-and-feel/caption"
             ]
           },
           {
             "group": "Recording",
             "pages": [
-              "guides/getting-started/recording",
-              "guides/getting-started/recording-copied-1",
-              "guides/getting-started/recording-copied-2",
-              "guides/getting-started/recording-copied-3"
+              "docs/recording",
+              "docs/recording/record-display",
+              "docs/recording/record-window",
+              "docs/recording/record-area"
             ]
           },
           {
             "group": "Getting started",
             "pages": [
               "index",
-              "index-copied-2",
-              "index-copied-1",
-              "quickstart"
-            ]
-          },
-          {
-            "group": "Customization",
-            "hidden": true,
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "hidden": true,
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "hidden": true,
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "docs/system-requirements",
+              "docs/setup-permissions"
             ]
           }
         ]
