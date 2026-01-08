@@ -17,39 +17,39 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "docs/system-requirements",
-              "docs/setup-permissions"
+              "system-requirements",
+              "setup-permissions"
             ]
           },
           {
             "group": "Recording",
             "pages": [
-              "docs/recording",
-              "docs/recording/record-display",
-              "docs/recording/record-window",
-              "docs/recording/record-area"
+              "recording",
+              "recording/record-display",
+              "recording/record-window",
+              "recording/record-area"
             ]
           },
           {
             "group": "Look & Feel",
             "pages": [
-              "docs/look-and-feel/background",
-              "docs/look-and-feel/caption",
-              "docs/look-and-feel/mouse",
-              "docs/look-and-feel/camera",
-              "docs/look-and-feel/captions"
+              "look-and-feel/background",
+              "look-and-feel/caption",
+              "look-and-feel/mouse",
+              "look-and-feel/camera",
+              "look-and-feel/captions"
             ]
           },
           {
             "group": "Editing",
             "pages": [
-              "docs/editing/copy-current-frame-as-an-image-copied-4",
-              "docs/editing/copy-current-frame-as-an-image",
-              "docs/editing/copy-current-frame-as-an-image-copied-3",
-              "docs/editing/copy-current-frame-as-an-image-copied-6",
-              "docs/editing/copy-current-frame-as-an-image-copied-5",
-              "docs/editing/copy-current-frame-as-an-image-copied-1",
-              "docs/editing/copy-current-frame-as-an-image-copied-2"
+              "editing/copy-current-frame-as-an-image-copied-4",
+              "editing/copy-current-frame-as-an-image",
+              "editing/copy-current-frame-as-an-image-copied-3",
+              "editing/copy-current-frame-as-an-image-copied-6",
+              "editing/copy-current-frame-as-an-image-copied-5",
+              "editing/copy-current-frame-as-an-image-copied-1",
+              "editing/copy-current-frame-as-an-image-copied-2"
             ]
           }
         ]
