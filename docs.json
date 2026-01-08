@@ -26,7 +26,7 @@
     },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
           {
             "group": "Getting started",
@@ -51,7 +51,8 @@
               "docs/look-and-feel/background",
               "docs/look-and-feel/mouse",
               "docs/look-and-feel/camera",
-              "docs/look-and-feel/caption"
+              "docs/look-and-feel/caption",
+              "docs/look-and-feel/captions"
             ]
           }
         ]
