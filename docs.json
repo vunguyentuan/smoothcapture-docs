@@ -9,21 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
-          "hidden": true,
-          "href": "https://mintlify.com/docs"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
-        }
-      ]
-    },
     "tabs": [
       {
         "tab": "Docs",
@@ -49,10 +34,22 @@
             "group": "Look & Feel",
             "pages": [
               "docs/look-and-feel/background",
+              "docs/look-and-feel/caption",
               "docs/look-and-feel/mouse",
               "docs/look-and-feel/camera",
-              "docs/look-and-feel/caption",
               "docs/look-and-feel/captions"
+            ]
+          },
+          {
+            "group": "Editing",
+            "pages": [
+              "docs/editing/copy-current-frame-as-an-image-copied-4",
+              "docs/editing/copy-current-frame-as-an-image",
+              "docs/editing/copy-current-frame-as-an-image-copied-1",
+              "docs/editing/copy-current-frame-as-an-image-copied-3",
+              "docs/editing/copy-current-frame-as-an-image-copied-6",
+              "docs/editing/copy-current-frame-as-an-image-copied-5",
+              "docs/editing/copy-current-frame-as-an-image-copied-2"
             ]
           }
         ]
