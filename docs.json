@@ -9,89 +9,47 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
-          "hidden": true,
-          "href": "https://mintlify.com/docs"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "hidden": true,
-          "href": "https://mintlify.com/blog"
-        }
-      ]
-    },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
-          {
-            "group": "Recording",
-            "pages": [
-              "guides/getting-started/recording",
-              "guides/getting-started/recording-copied-1",
-              "guides/getting-started/recording-copied-2",
-              "guides/getting-started/recording-copied-3"
-            ]
-          },
           {
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "docs/system-requirements",
+              "docs/setup-permissions"
             ]
           },
           {
-            "group": "Customization",
-            "hidden": true,
+            "group": "Recording",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "docs/recording",
+              "docs/recording/record-display",
+              "docs/recording/record-window",
+              "docs/recording/record-area"
             ]
           },
           {
-            "group": "Writing content",
-            "hidden": true,
+            "group": "Look & Feel",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "docs/look-and-feel/background",
+              "docs/look-and-feel/caption",
+              "docs/look-and-feel/mouse",
+              "docs/look-and-feel/camera",
+              "docs/look-and-feel/captions"
             ]
           },
           {
-            "group": "AI tools",
-            "hidden": true,
+            "group": "Editing",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "hidden": true,
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "docs/editing/copy-current-frame-as-an-image-copied-4",
+              "docs/editing/copy-current-frame-as-an-image",
+              "docs/editing/copy-current-frame-as-an-image-copied-3",
+              "docs/editing/copy-current-frame-as-an-image-copied-6",
+              "docs/editing/copy-current-frame-as-an-image-copied-5",
+              "docs/editing/copy-current-frame-as-an-image-copied-1",
+              "docs/editing/copy-current-frame-as-an-image-copied-2"
             ]
           }
         ]
