@@ -43,13 +43,10 @@
           {
             "group": "Editing",
             "pages": [
-              "guides/editing/copy-current-frame-as-an-image-copied-4",
-              "guides/editing/copy-current-frame-as-an-image",
-              "guides/editing/copy-current-frame-as-an-image-copied-3",
-              "guides/editing/copy-current-frame-as-an-image-copied-6",
-              "guides/editing/copy-current-frame-as-an-image-copied-5",
-              "guides/editing/copy-current-frame-as-an-image-copied-1",
-              "guides/editing/copy-current-frame-as-an-image-copied-2"
+              "guides/editing/speeding-up",
+              "guides/editing/cropping",
+              "guides/editing/trimming",
+              "guides/editing/mouse-click-sound"
             ]
           }
         ]
