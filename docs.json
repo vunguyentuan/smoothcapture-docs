@@ -92,5 +92,8 @@
         ]
       }
     ]
+  },
+  "seo": {
+    "indexing": "navigable"
   }
 }
