@@ -37,7 +37,8 @@
               "guides/look-and-feel/caption",
               "guides/look-and-feel/mouse",
               "guides/look-and-feel/camera",
-              "guides/look-and-feel/captions"
+              "guides/look-and-feel/captions",
+              "guides/look-and-feel/copy-and-save-current-frame"
             ]
           },
           {
@@ -46,7 +47,15 @@
               "guides/editing/speeding-up",
               "guides/editing/cropping",
               "guides/editing/trimming",
-              "guides/editing/mouse-click-sound"
+              "guides/editing/mouse-click-sound",
+              "guides/editing/lightbox-effect"
+            ]
+          },
+          {
+            "group": "Zoom",
+            "pages": [
+              "guides/zoom/manual",
+              "guides/zoom/auto"
             ]
           }
         ]
