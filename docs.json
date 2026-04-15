@@ -34,12 +34,15 @@
             "group": "Look & Feel",
             "pages": [
               "guides/look-and-feel/background",
-              "guides/look-and-feel/caption",
+              "guides/look-and-feel/captions",
               "guides/look-and-feel/mouse",
               "guides/look-and-feel/camera",
               "guides/look-and-feel/captions",
               "guides/look-and-feel/copy-current-frame",
-              "guides/look-and-feel/save-current-frame"
+              "guides/look-and-feel/save-current-frame",
+              "guides/look-and-feel/save-frame-transparent",
+              "guides/look-and-feel/background-music",
+              "guides/look-and-feel/copy-frame-transparent"
             ]
           },
           {
