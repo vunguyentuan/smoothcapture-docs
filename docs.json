@@ -38,7 +38,8 @@
               "guides/look-and-feel/mouse",
               "guides/look-and-feel/camera",
               "guides/look-and-feel/captions",
-              "guides/look-and-feel/copy-and-save-current-frame"
+              "guides/look-and-feel/copy-current-frame",
+              "guides/look-and-feel/save-current-frame"
             ]
           },
           {
