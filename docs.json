@@ -59,7 +59,16 @@
             "group": "Zoom",
             "pages": [
               "guides/zoom/manual",
-              "guides/zoom/auto"
+              "guides/zoom/auto",
+              "guides/zoom/disable-automatic-zoom"
+            ]
+          },
+          {
+            "group": "Preset",
+            "pages": [
+              "guides/preset/create-preset",
+              "guides/preset/apply-preset"
+
             ]
           }
         ]
