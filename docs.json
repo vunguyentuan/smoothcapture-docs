@@ -66,8 +66,7 @@
           {
             "group": "Preset",
             "pages": [
-              "guides/preset/create-preset",
-              "guides/preset/apply-preset"
+              "guides/preset/create-preset"
 
             ]
           }
