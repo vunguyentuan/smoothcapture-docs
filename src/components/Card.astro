@@ -1,0 +1,51 @@
+---
+interface Props {
+  href?: string;
+  horizontal?: boolean;
+}
+
+const { href, horizontal = false } = Astro.props;
+const Tag = href ? 'a' : 'div';
+---
+
+<Tag class:list={['docs-card', { 'docs-card-horizontal': horizontal }]} href={href}>
+  <slot />
+</Tag>
+
+<style>
+  .docs-card {
+    display: block;
+    margin: 1rem 0;
+    padding: 1rem 1.125rem;
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 8px;
+    background: var(--sl-color-black);
+    color: var(--sl-color-white);
+    text-decoration: none;
+    box-shadow: 0 1px 2px color-mix(in srgb, var(--sl-color-gray-6), transparent 82%);
+  }
+
+  :root[data-theme='light'] .docs-card {
+    background: var(--sl-color-white);
+    color: var(--sl-color-gray-1);
+  }
+
+  .docs-card[href]:hover {
+    border-color: var(--sl-color-accent);
+    box-shadow: 0 0 0 1px var(--sl-color-accent);
+  }
+
+  .docs-card-horizontal {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .docs-card :global(:first-child) {
+    margin-top: 0;
+  }
+
+  .docs-card :global(:last-child) {
+    margin-bottom: 0;
+  }
+</style>
