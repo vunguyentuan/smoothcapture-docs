@@ -29,20 +29,14 @@ This project deploys as a static Cloudflare Workers asset site using Wrangler. T
 For Cloudflare Workers Builds, configure the build settings as:
 
 - Build command: `bun run build`
-- Deploy command: `npx wrangler deploy`
+- Deploy command: `bun run deploy`
 
-Alternatively, leave the Build command empty and set the Deploy command to:
-
-```sh
-bun run deploy
-```
-
-Do not use only `npx wrangler deploy` without a build command. Wrangler expects `dist/` to already exist, and Astro only creates it after `bun run build`.
+Do not leave the Build command empty. Wrangler expects `dist/` to already exist, and Astro only creates it after `bun run build`.
 
 Deploy from your machine:
 
 ```sh
-bun run deploy
+bun run deploy:full
 ```
 
 Preview the built site with Wrangler:
